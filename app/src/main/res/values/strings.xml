@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AirGestRecTrain</string>
+    <string name="training_statement">Hold this button and start train your signature 10 times.</string>
+    <string name="training_number">Training data no. 0</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintTexxt">Input your name</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
